@@ -614,6 +614,8 @@ footer {
 }
 
 /* Responsive Design for Different Screen Sizes */
+
+/* Responsive Design for Different Screen Sizes */
 @media (max-width: 1024px) {
     .about-me-content {
         flex-direction: column;
